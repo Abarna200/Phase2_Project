@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 9,
+      "firstName": "kaneki",
+      "lastName": "ken",
+      "email": "ken@gmail.com",
+      "mobile": "1111111111",
+      "salary": "60000"
+    },
+    {
+      "id": 11,
+      "firstName": "Kakashi",
+      "lastName": "hatake",
+      "email": "kakashi@gmail.com",
+      "mobile": "0987654321",
+      "salary": "45000"
+    },
+    {
+      "id": 12,
+      "firstName": "eren",
+      "lastName": "yeager",
+      "email": "eren@gmail.com",
+      "mobile": "7338787453",
+      "salary": "50000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
